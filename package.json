@@ -1,0 +1,23 @@
+{
+  "name": "fullstackopen_part3",
+  "version": "0.0.1",
+  "description": "Part 3 exercises from https://fullstackopen.com/en/part3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/leeja9/fullstackopen_part3"
+  },
+  "author": "James Lee",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
